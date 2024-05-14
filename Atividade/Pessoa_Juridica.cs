@@ -1,4 +1,4 @@
-namespace Atividade
+namespace Atividade;
 {
     class Pessoa_Juridica : Clientes
     {
