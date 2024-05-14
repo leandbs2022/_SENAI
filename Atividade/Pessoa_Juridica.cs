@@ -5,7 +5,7 @@ namespace Atividade
         public string cnpj{ get; set; }
         public string ie{ get; set; }
     }
- //não aceitou o comando Override no restante esta funcionado falar que a strutura ja existe
+ //não aceitou o comando Override no restante esta funcionado, falar que a strutura ja existe
 
    /* public override void Pagar_Imposto(float v)
     {
